@@ -15,6 +15,16 @@ Practitioner.
 and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to use the t2 or
 t3.micro instance and the CentOS operating system
 ![img](https://github.com/Tolkvemar/AWS_Task/blob/main/AWS_Login.jpg)
-
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/SSH_Connect_to_instance.jpg)
 8. Create a snapshot of your instance to keep as a backup
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Created_Snapshot.jpg)
+9. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save
+some file on Disk_D
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Attach_Volume.jpg)
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Attach_Volume.jpg)
+10. Launch the second instance from backup
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Image_For_Instance.jpg)
 ![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Created_Instance.jpg)
+11. Detach Disk_D from the 1st instance and attach disk_D to the new instance
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Attach_to_second_instance.jpg)
+
