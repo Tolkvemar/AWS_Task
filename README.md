@@ -21,7 +21,7 @@ t3.micro instance and the CentOS operating system
 9. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save
 some file on Disk_D
 ![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Attach_Volume.jpg)
-![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Attach_Volume.jpg)
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Attached_Volume.jpg)
 10. Launch the second instance from backup
 ![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Image_For_Instance.jpg)
 ![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Created_Instance.jpg)
