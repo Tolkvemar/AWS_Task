@@ -14,4 +14,7 @@ Practitioner.
 7. Review Getting Started with Amazon EC2. Log Into Your AWS Account, Launch, Configure, Connect
 and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to use the t2 or
 t3.micro instance and the CentOS operating system
-https://github.com/Tolkvemar/AWS_Task/blob/main/AWS_Login.jpg
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/AWS_Login.jpg)
+
+8. Create a snapshot of your instance to keep as a backup
+![img](https://github.com/Tolkvemar/AWS_Task/blob/main/Created_Instance.jpg)
